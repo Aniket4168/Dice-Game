@@ -1,0 +1,56 @@
+.container {
+    text-align: center;
+    margin: auto;
+    width: 80%;
+}
+
+
+h1 {
+    font-size: 8rem;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    color: rgb(24, 222, 156);
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+}
+
+h2 {
+    color: aliceblue;
+}
+
+
+
+body {
+    background-color: rgba(16, 44, 55, 0.862);
+}
+
+.dice {
+    display: inline-block;
+    text-align: center;
+
+}
+
+
+
+p {
+    font-size: 2.5rem;
+    color: rgb(7, 204, 181);
+    font-weight: 600;
+    text-shadow: 2px 0 #300271;
+    font-family: 'Indie Flower', cursive;
+
+}
+
+img {
+    width:  80%;
+}
+
+footer {
+    text-align: center;
+    padding: 5%;
+    font-size: 1.1rem;
+    color: aliceblue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
